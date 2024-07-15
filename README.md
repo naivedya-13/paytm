@@ -28,4 +28,4 @@ Follow these steps to set up the project on your local machine.
 
 ```sh
 git clone https://github.com/naivedya-13/paytm.git
-cd basic-paytm-like-app
+cd paytm
